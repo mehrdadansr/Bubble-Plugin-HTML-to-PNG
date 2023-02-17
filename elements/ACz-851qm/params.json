@@ -1,0 +1,65 @@
+{
+    "add_hover_pressed": false,
+    "add_is_visible": true,
+    "can_fit_height": false,
+    "can_fit_width": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 1,
+        "width": 1
+    },
+    "display": "HTML to PNG",
+    "events": {
+        "AFx": {
+            "caption": "Image Taken",
+            "name": "imageTaken"
+        }
+    },
+    "fields": {
+        "AFy": {
+            "caption": "HTML to PNG Doc",
+            "editor": "Label",
+            "name": "htmltopng",
+            "optional": true,
+            "rank": 0
+        },
+        "AFz": {
+            "caption": "Take Picture Action. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "doc": "To use this plugin in the workflow section, put the photo capture action in a workflow. Specify the ID of the element you want and the quality of the photo.",
+            "editor": "Label",
+            "name": "takepicture",
+            "rank": 1
+        },
+        "AGA": {
+            "caption": "Access To File. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ",
+            "doc": "To access the image file, use the state of this element.",
+            "editor": "Label",
+            "name": "accesstofile",
+            "rank": 2
+        },
+        "AGB": {
+            "caption": "Image Taken Event  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "doc": "The <Image Taken> event is triggered after the file is ready, it may be useful in some situations.",
+            "editor": "Label",
+            "name": "imageta",
+            "rank": 3
+        }
+    },
+    "icon": "ion-qr-scanner",
+    "property_applications": {
+        "Font": false,
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AFl": {
+            "caption": "Image",
+            "doc": "",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "image",
+            "value": "image"
+        }
+    }
+}

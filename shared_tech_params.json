@@ -1,0 +1,24 @@
+{
+    "assets": {
+        "AED": {
+            "name": "style",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1669196032757x756561566887080000/style.css"
+        },
+        "AEF": {
+            "name": "nofontstyle",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1669213237653x879075247315011500/style.css"
+        },
+        "AEJ": {
+            "name": "chartstyle",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1669298380225x136372666897581980/styles.css"
+        },
+        "AEK": {
+            "name": "chartjs",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1669298394624x463067523161051260/bundle.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 3,
+        "use_jquery": true
+    }
+}

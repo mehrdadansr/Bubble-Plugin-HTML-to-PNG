@@ -1,0 +1,21 @@
+{
+    "caption": "Take Picture",
+    "fields": {
+        "AFs": {
+            "caption": "HTML ID",
+            "doc": "Set ID Attribute of element that you want take a picture from it.",
+            "editor": "DynamicValue",
+            "name": "htmlid",
+            "rank": 0,
+            "value": "text"
+        },
+        "AFt": {
+            "caption": "Quality",
+            "default_val": 1,
+            "doc": "A number between 0 and 1. 1 is high quality.",
+            "editor": "StaticNumber",
+            "name": "image_qu",
+            "rank": 1
+        }
+    }
+}

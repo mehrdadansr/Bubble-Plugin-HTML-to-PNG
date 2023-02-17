@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "analytics",
+        "2": "media",
+        "3": "web scraping",
+        "4": "containers"
+    },
+    "demo_page": "https://data-visualization-plotly.bubbleapps.io/version-test/htmltopng",
+    "description": "HTML to PNG is a highly functional and free plugin that makes it easy to capture screenshots of your web application. This powerful tool utilizes the html2canvas JavaScript library to convert the visual content of your web pages into images, making it an ideal choice for developers, designers, and anyone who needs a quick and convenient way to take screenshots. With a simple activation process, \"HTML to PNG\" takes the hassle out of capturing images, leaving you with a high-quality screenshot in just a few clicks.\n\nSome of the key benefits of \"HTML to PNG\" include:\n\n📷 Captures screenshots with ease: Simply activate the plugin, and it will do the rest.\n\n💻 Utilizes the html2canvas JavaScript library: This powerful tool ensures high-quality images every time.\n\n🎯 Ideal for developers, designers, and anyone who needs to take screenshots: Whether you're documenting your application or sharing a particular section with a colleague, \"HTML to PNG\" has got you covered.\n\n🆓 Completely free: There's no need to break the bank to get high-quality screenshots.\n\n🚀 Convenient and efficient: Say goodbye to time-consuming screenshot processes and hello to a world of simplicity and ease.\n\nIn the unlikely event that you experience any issues with \"HTML to PNG\", our support team is here to help. If you encounter any problems, please don't hesitate to reach out and we will respond as quickly as possible to assist you. Our goal is to ensure that your experience with \"HTML to PNG\" is as smooth and effortless as possible.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1676047751769x217986765485036930/Png%403x.png",
+    "license": "open_source",
+    "link": "https://github.com/niklasvh/html2canvas",
+    "name": "HTML to PNG",
+    "plugin_instructions": "To use the \"HTML to PNG\" plugin, simply follow these easy steps:\n\n💻 Insert the HTMLtoPNG element somewhere on your page.\n\n🔍 Add the \"Take Picture\" action to your workflows, available in the \"Elements Action\" tab. You can trigger it by adding it to any event, such as a button click.\n\n📝 Set the ID attribute of the element you want to convert and the image quality level.\n\n💾 Trigger the \"Convert\" workflow and the PNG file will be generated and ready for use or download within your Bubble application as element's state.\n\nIt's that simple! The \"HTML to PNG\" plugin makes capturing screenshots a breeze, and with its easy-to-use interface, you'll be able to take high-quality images in no time."
+}
